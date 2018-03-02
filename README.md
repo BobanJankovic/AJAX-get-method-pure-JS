@@ -1,0 +1,1 @@
+# AJAX-get-method-pure-JS
